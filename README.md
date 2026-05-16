@@ -1,2 +1,2 @@
-# 22MIS0408 Afford Online Test
+# 22MIS0408 Online Test
 Afford Medical Technologies Online Test
